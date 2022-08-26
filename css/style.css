@@ -1,5 +1,15 @@
-#navbar {
-    position: absolute;
-    top: 50px;
-    align: left;
-    font-size: 490px}
+
+
+#welcome-section {
+    padding-top: 0px;
+    margin-top: 0px;
+    display: block;
+    height: 100vh;
+}
+
+#navbar{
+    position:fixed;
+    top:0;
+    width:100%;
+    }
+    
